@@ -28,7 +28,7 @@
     "vscode-languageserver-textdocument": "^1.0.1"
   },
   "devDependencies": {
-    "astro": "^0.18.0-next.0",
+    "astro": "^5.17.3",
     "astro-scripts": "0.0.1"
   }
 }
